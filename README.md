@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Kubernetes, Ansible, Terraform, AWS, and go**
 
-- 📝 I write articles on [penguin.ar](penguin.ar)
-
 - 💬 Ask me about **Linux, Python, Bash, Networking, and sound quality.**
 
 <h3 align="left">Connect with me:</h3>
