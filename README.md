@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm PenguinAR</h1>
-<h3 align="center">A DevOps and Automation Engineer from Argentina</h3>
+<h3 align="center">A DevOps Engineer from Argentina</h3>
 
-- 🔭 I’m currently working on **a on-premise cloud provider**
+- 🔭 I’m currently working as **Cloud Engineer**
 
-- 🌱 I’m currently learning **Kubernetes, Ansible, AWS, and go**
+- 🌱 I’m currently learning **Kubernetes, Ansible, AWS**
 
 - 💬 Ask me about **Linux, Python, Bash, Networking, and sound quality.**
 
